@@ -10,9 +10,9 @@
 					<div class="col-md-6 text-xs-center">
 						<div class="row mt-40">
 							<a href="price.php" class="menu-link">Номера и цены</a>       
-							<a href="/" class="menu-link">Услуги</a>       
+							<a href="services.php" class="menu-link">Услуги</a>       
 							<a href="/" class="menu-link">Как добраться</a>       
-							<a href="/" class="menu-link">Отзывы</a>
+							<a href="feedback.php" class="menu-link">Отзывы</a>
 						</div>
 					</div>
 					<div class="col-md-3 text-xs-right">

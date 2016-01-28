@@ -21,7 +21,7 @@
 		</div>
 		<!-- Контент -->
 		<div class="container">
-			<div class="row mt-10">
+			<div class="row mt-25">
 				<div class="col-md-12">
 					<h1 class="title-block font-italic">Размещение в мини-отеле</h1>
 					<p>При въезде, наши администраторы встретят Вас и разместят в одном из пяти номеров с прекрасным ремонтом и отделкой. 
