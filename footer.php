@@ -11,7 +11,7 @@
 						<div class="row mt-40">
 							<a href="price.php" class="menu-link">Номера и цены</a>       
 							<a href="services.php" class="menu-link">Услуги</a>       
-							<a href="/" class="menu-link">Как добраться</a>       
+							<a href="location.php" class="menu-link">Как добраться</a>       
 							<a href="feedback.php" class="menu-link">Отзывы</a>
 						</div>
 					</div>

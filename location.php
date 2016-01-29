@@ -23,78 +23,52 @@
 		<div class="container">
 			<div class="row mt-25">
 				<div class="col-md-12">
-					<h1 class="title-block font-italic">Услуги в Omar Hayam</h1>
-					<p>Наши гости могут бесплатно пользоваться большим списком услуг, а за отдельную плату, он может быть расширен.</p>
+					<h1 class="title-block font-italic">Добраться очень просто</h1>
+					<p>Мини-отель расположен по адресу <b>Москва, Страстной б-р, д. 4, стр. 3</b>. Это в двух минутах пешком от станций метро Тверская, Пушкинская и Чеховская. Удобнее всего выходить будет со станци метро Чеховская, первый вагон из центра, из стеклянных дверей налево. Так же предлагаем посмотреть фото-схему.</p>
+					<div class="map"><script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=0YXvrw8nfkzVwsJz8Dkw5-QtatNZnVJ6&width=100%&height=260"></script></div>
+					<div class="line"></div>
 				</div>
 
 				<div class="clearfix"></div>
 
-				<div class="col-md-8 mt-10" style="border-right:1px solid #d7d3ce">
-					<div class="servise servise-green">Бесплатные услуги</div>
-					<div class="mt-10">
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-kitchen.png" alt="">Общая<br>кухня</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-hairdryer.png" alt="">Фен</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-guide.png" alt="">Путеводитель</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-reseption.png" alt="">Стойка регистрации<br>24 часа</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-baggage-room.png" alt="">Камера хранения багажа</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-slippers.png" alt="">Одноразовые тапочки</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-nonsmoking.png" alt="">Некурящие номера</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-tv.png" alt="">Телевизоры<br>в номерах</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-multilanguage.png" alt="">Мультиязычный персонал Rus\Eng\Spain</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-bedding.png" alt="">Чистое постельное бельё</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-heating.png" alt="">Отопление, горячая вода</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-soap.png" alt="">Мыло,<br>шампунь и гель для душа</div>
-					</div>
-				</div>
-				<div class="col-md-4 mt-10">
-					<div class="servise servise-red">Платные услуги</div>
-					<div class="mt-10">
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-transfer.png" alt="">Трансфер</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-meet.png" alt="">Встреча<br>на вокзале<br>или аэропорту</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-washing.png" alt="">Стирка<br>и глажка</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-excursion.png" alt="">Экскурсии</div>
-						<div class="servise-item"><img class="center-block" src="assets/img/servise-registration.png" alt="">Регистрация в Москве, приглашение в Россию</div>
-					</div>
-				</div>
-				
-				<div class="clearfix"></div>
-				
 				<div class="col-md-12">
-					<div id="carousel-omar-hayam" class="carousel slide mt-40" data-ride="carousel">
-						 <!-- Indicators -->
-						 <ol class="carousel-indicators">
-							<li data-target="#carousel-omar-hayam" data-slide-to="0" class="active"></li>
-							<li data-target="#carousel-omar-hayam" data-slide-to="1"></li>
-							<li data-target="#carousel-omar-hayam" data-slide-to="2"></li>
-							<li data-target="#carousel-omar-hayam" data-slide-to="3"></li>
-							<li data-target="#carousel-omar-hayam" data-slide-to="4"></li>
-							<li data-target="#carousel-omar-hayam" data-slide-to="5"></li>
-						 </ol>
-
-						 <!-- Wrapper for slides -->
-						 <div class="carousel-inner" role="listbox">
-							<div class="carousel-item active">
-								<img src="assets/img/slide/slide-1.jpg" alt="...">
+					<div class="mt-20">
+						<h1 class="title-block font-italic hand">Наведите на картинку</h1>
+						<div class="pathway-container">
+							<div class="pathway">
+								<div class="zoom-path">
+									<img class="stretches" src="assets/img/pathway/pathway-1.png">
+									<div class="path-discription"><span>Это описание к картинке</span></div>
+								</div>
 							</div>
-							<div class="carousel-item">
-								<img src="assets/img/slide/slide-2.jpg" alt="...">
+							<div class="pathway">
+								<div class="zoom-path">
+									<img class="stretches" src="assets/img/pathway/pathway-2.png">
+									<div class="path-discription"><span>После жилого здания&nbsp;<br>&nbsp;поверните налево</span></div>
+								</div>
 							</div>
-							<div class="carousel-item">
-								<img src="assets/img/slide/slide-3.jpg" alt="...">
+							<div class="pathway">
+								<div class="zoom-path">
+									<img class="stretches" src="assets/img/pathway/pathway-3.png">
+									<div class="path-discription"><span>Идите прямо, прямо, прямо</span></div>
+								</div>
 							</div>
-							<div class="carousel-item">
-								<img src="assets/img/slide/slide-4.jpg" alt="...">
+							<div class="pathway">
+								<div class="zoom-path">
+									<img class="stretches" src="assets/img/pathway/pathway-4.png">
+									<div class="path-discription"><span>Поверните за угол&nbsp;<br>&nbsp;и идите прямо</span></div>
+								</div>
 							</div>
-							<div class="carousel-item">
-								<img src="assets/img/slide/slide-5.jpg" alt="...">
+							<div class="pathway">
+								<div class="zoom-path">
+									<img class="stretches" src="assets/img/pathway/pathway-5.png">
+									<div class="path-discription"><span>Идите прямо, потом&nbsp;<br>&nbsp;поверните налево</span></div>
+								</div>
 							</div>
-							<div class="carousel-item">
-								<img src="assets/img/slide/slide-6.jpg" alt="...">
-							</div>
-						 </div>
+							<div class="clearfix"></div>
+						</div>
 					</div>
 				</div>
-				
 			</div>
 		</div>
 	</div>

@@ -250,5 +250,10 @@
 		   $("#phone").mask("+9 (999) 999-9999",{completed:function(){}});
 		});
 	</script>
+	<script type="text/javascript">
+		$('.carousel-omar-hayam').carousel({
+			interval: 2000
+		})
+	</script>
   </body>
 </html>
