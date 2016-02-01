@@ -25,7 +25,7 @@
 				<div class="col-md-12">
 					<h1 class="title-block font-italic">Добраться очень просто</h1>
 					<p>Мини-отель расположен по адресу <b>Москва, Страстной б-р, д. 4, стр. 3</b>. Это в двух минутах пешком от станций метро Тверская, Пушкинская и Чеховская. Удобнее всего выходить будет со станци метро Чеховская, первый вагон из центра, из стеклянных дверей налево. Так же предлагаем посмотреть фото-схему.</p>
-					<div class="map"><script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=0YXvrw8nfkzVwsJz8Dkw5-QtatNZnVJ6&width=100%&height=260"></script></div>
+					<div class="map"><script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=U9aTaKOgA1TA15r4axnBaqaJYq_sNG-Y&width=100%&height=264&lang=ru_RU&sourceType=constructor"></script></div>
 					<div class="line"></div>
 				</div>
 
